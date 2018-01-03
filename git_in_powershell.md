@@ -4,8 +4,17 @@ What you need:
 * powershell - Windows 10 terminal environment
 * chocolatey - Package manager for Windows 10
 * `git` - Source Control Manager
+* your remote git url *( like  __github.com__ )*
 * posh-git - Powershell syntactic sugerer
 * a text editor - for editing configuration files.
+
+
+## Powershell
+### Installing chocolatey to manage system packages
+## Installing & Configuring `git`
+## Setting up ssh keys for remote git repositories
+
+
 
 ----------
 ## Bonus Round: Install [Hyper] for tabbed cli
