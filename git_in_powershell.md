@@ -28,5 +28,8 @@ Thanks to these resources for the guidance:
 * dahlbyk's [posh-git](https://github.com/dahlbyk/posh-git)
 * [Using Git From PowerShell with Multiple Hosts](https://dontpaniclabs.com/blog/post/2017/08/31/using-git-powershell-multiple-hosts/)
 
+[Fix issue in Win10 update with *ssh-agent* in posh-git](https://github.com/lukesampson/pshazz/issues/70)
+**This error:  unable to start ssh-agent service, error :1058**
+
 
 [Hyper]:(https://hyper.is/)
